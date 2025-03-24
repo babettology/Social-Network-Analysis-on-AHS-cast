@@ -15,7 +15,7 @@ Figure 1: AHS Co-Starring Network
 ![AHS network_page-0001](https://github.com/user-attachments/assets/7014530d-fe2b-44cc-8853-f59326a5be07)
 
 
-# B) Characteristics of the network and the nodes
+# B) Characteristics of the network and its nodes
 
 With a density of 0.45, the network shows significant actor collaboration without being fully connected. Additionally, the network diameter is 2 meaning the farthest distance between any two actors in the AHS cast network is at most two steps. This suggests high cohesion with recurrent actors efficiently spreading influence.
 
