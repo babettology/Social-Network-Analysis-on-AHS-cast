@@ -3,7 +3,7 @@
 # Introduction 
 
 This report assess the network of cast members of American Horror Story (AHS) television show. The show is an American-based series that started in 2011 and is still running, with over 12 seasons as of 2025.
-Unlike conventional TV shows, AHS follows an anthology format, changing storylines and most actors each season. Despite the format’s fragmentation, recurring actor co-appearances and an overarching narrative persist across seasons, making network analysis a valuable tool for exploring these connections.
+Unlike conventional TV shows, AHS follows an anthology format, changing storylines and most actors each season. Despite the format’s fragmentation, recurring actor co-appearances and a common narrative persist across seasons, making network analysis a valuable tool for exploring these connections.
 
 # A) Network Description
 
